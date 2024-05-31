@@ -11,3 +11,6 @@ TECH BLOG:
     delete
     About
     Contact
+
+user- manish
+password-manish
